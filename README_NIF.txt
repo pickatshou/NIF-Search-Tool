@@ -8,7 +8,7 @@ Si vous souhaitez utiliser l'application, veuillez envoyer le
 fichier généré par le programme à : pickatshou@gmail.com
 
 Un code vous sera transmis pour une période d'essai gratuite 
-valable jusqu'au 31/03/2026. 
+valable jusqu'au 20/04/2026. 
 Note : Le délai d'envoi peut varier selon la charge du système.
 
 2. PRÉREQUIS TECHNIQUES
