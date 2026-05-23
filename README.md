@@ -15,7 +15,7 @@ Pour utiliser l'application, suivez ces étapes :
 ---
 
 ## 📅 Période d'Essai
-L'application est actuellement disponible en **version d'essai gratuite** jusqu'au **18/05/2026**.
+L'application est actuellement disponible en **version d'essai gratuite** jusqu'au **31/05/2026**.
 
 ---
 
